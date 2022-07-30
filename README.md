@@ -1,18 +1,16 @@
-# Pourya Mansouri
+# Zahra Jannesari
 
-Hey 👋🏻,
+Hello visitor 👋🏻
 
-I have worked as an Electrical Engineer for about 4 years but this has made me realize what my passion is as soon as I started coding with python programming language in 2019. Not only could I see my future in it, but also my next best decision when it came to a lucrative career that I can rely on. 
+I have studied Physics for 4 years and after only few months from the beginning, I realized that's not my path. As soon as I met c++ in university, I knew coding is THE Thing. My passion increased day after day and now,I'm compeletly adicted to this inceridable field:)
+My current programming field is android development and kotlin language;Looking forward new ways and interested to get deep in each one.
 
-My Compliments to myself were not giving up in addition to enhancing my repertoire in order to make sure that I can be the best version of myself. Python, Django, DRF (Django Rest Framework), Graphql, Web Design, Linux Engineering as well as Docker are my current specialties. I cannot be more thrilled to see myself standing in a great position, a person who paved the way for himself through only a programming language and non-stop and ongoing progress.
-
-My hobbies are sports, reading, walking and working out, swimming and instrumental and concentration music.
+My other hobbies beside coding are sports, animals, foodes, movies and music.
 
 ## 📬 Get in touch
 
-- Web: [pouryamansouri.com][1]
-- LinkedIn: [linkedin.com/in/pouryamansouri/][2]
-- Twitter: [twitter.com/pourya_mansouri][3]
+- LinkedIn: [www.linkedin.com/in/zahra-jannesari-call-me-zarisa][1]
+- E-mail: [jannesari.zahra1999@gmail.com][2]
 
 ## GitHub Profile Trophy
 

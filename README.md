@@ -9,7 +9,7 @@ My other hobbies beside coding are sports, animals, foodes, movies and music.
 
 ## 📬 Get in touch
 
-- LinkedIn: [www.linkedin.com/in/zahra-jannesari-call-me-zarisa][1]
+- LinkedIn: [Zahra(Zarisa)Jannesari][1]
 - E-mail: [jannesari.zahra1999@gmail.com][2]
 
 ## GitHub Profile Trophy
@@ -29,10 +29,9 @@ My other hobbies beside coding are sports, animals, foodes, movies and music.
 </a>
 
 
-[1]: https://www.pouryamansouri.com/
-[2]: https://www.linkedin.com/in/pouryamansouri/
-[3]: https://twitter.com/intent/follow?screen_name=pourya_mansouri
-[8]: https://www.buymeacoffee.com/pouryamansouri
+[1]: https://www.linkedin.com/in/zahra-jannesari-call-me-zarisa
+[2]: https://jannesari.zahra1999@gmail.com
+[3]: https://www.buymeacoffee.com/pouryamansouri
 
 ## 🤜🏻🤛🏻 Support Me
 

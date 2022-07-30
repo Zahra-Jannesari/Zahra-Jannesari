@@ -31,9 +31,9 @@ My other hobbies beside coding are sports, animals, foodes, movies and music.
 
 [1]: https://www.linkedin.com/in/zahra-jannesari-call-me-zarisa
 [2]: https://jannesari.zahra1999@gmail.com
-[3]: https://www.buymeacoffee.com/pouryamansouri
+[3]: https://www.buymeacoffee.com/zarisa
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][8], if you want. 🙏🏻
+You can motivate me through [buying a coffee for me][3] if you want.🌹
 

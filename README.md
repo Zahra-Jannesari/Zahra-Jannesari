@@ -35,5 +35,5 @@ My other hobbies beside coding are sports, animals, foodes, movies and music.
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can motivate me through [buying a coffee for me][3] if you want.🌹
+You can [buy me a coffee][3] and motivate me if you want.🌹
 

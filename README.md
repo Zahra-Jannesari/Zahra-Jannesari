@@ -3,7 +3,7 @@
 Hello visitor 👋🏻
 
 I have studied Physics for 4 years and after only few months from the beginning, I realized that's not my path. As soon as I met c++ in university, I knew coding is THE THING. My passion increased day after day and now,I'm compeletly adicted to this inceridable field:)
-My current programming field is android development and kotlin language;Looking forward new ways and interested to get deep in each one.
+My current programming field is android development and kotlin language; Looking forward new ways and interested to get deep in each one.
 
 My other hobbies beside coding are sports, animals, foodes, movies and music.
 

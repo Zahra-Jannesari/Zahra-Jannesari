@@ -1,15 +1,19 @@
 # Zahra Jannesari
 
-Hello visitor 👋🏻
+👋🏻 Hello dear visitor, Welcome!
+I hope all is well with you.
 
-I have studied Physics for 4 years and after only few months from the beginning, I realized that's not my path. As soon as I met c++ in university, I knew coding is THE THING. My passion increased day after day and now,I'm compeletly adicted to this inceridable field:)
-My current programming field is android development and kotlin language; Looking forward new ways and interested to get deep in each one.
+Allow me to introduce myself briefly. I hold a B.Sc. in Physics from Isfahan University of Technology. My journey into the world of programming began when I was introduced to C++ at university, igniting a passion for development and a desire to explore new technologies.
 
-My other hobbies beside coding are sports, animals, foodes, movies and music.
+My professional journey in Computer Science startd with learning Android development using Kotlin language, followed by a carear as a programmer where I independently acquired proficiency in front-end development.
+
+Equiped with a thirst for personal growth, I'm actively seeking new opportunities to further my education in this filed. I am particularly interested in merging my background in physics with interdisciplinary domains , particularly with the use of cutting-edge technologies such as artificial intelligence and data science. I would greatly appreciate any guidance on how to navigate this journey successfully.
+
+Aside from technologies, I also enjoy sports, movies and music.
 
 ## 📬 Get in touch
 
-- LinkedIn: [Zahra(Zarisa)Jannesari][1]
+- LinkedIn: [Zahra Jannesari][1]
 - E-mail: [jannesari.zahra1999@gmail.com][2]
 
 ## GitHub Profile Trophy
@@ -29,11 +33,11 @@ My other hobbies beside coding are sports, animals, foodes, movies and music.
 </a>
 
 
-[1]: https://www.linkedin.com/in/zahra-jannesari-call-me-zarisa
+[1]: https://www.linkedin.com/in/jannesari-zahra/
 [2]: https://jannesari.zahra1999@gmail.com
 [3]: https://www.buymeacoffee.com/zarisa
 
 ## 🤜🏻🤛🏻 Support Me
 
-You can [buy me a coffee][3] and motivate me if you want.🌹
+You can [buy me a coffee][3] and motivate me if you like.🌹
 

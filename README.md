@@ -5,7 +5,7 @@ I hope all is well with you.
 
 Allow me to introduce myself briefly. I hold a B.Sc. in Physics from Isfahan University of Technology; my journey into the world of programming began when I was introduced to C++ at university, igniting a passion for development and a desire to explore new technologies.
 
-My professional journey in Computer Science startd with learning Android Development using Kotlin Language, followed by a carear as a programmer where I independently acquired proficiency in front-end development.
+My professional journey in Computer Science started with learning Android Development using Kotlin Language, followed by a career as a programmer where I independently acquired proficiency in front-end development.
 
 Equiped with a thirst for personal growth, I'm actively seeking new opportunities to further my education in this filed. I am particularly interested in merging my background in physics with interdisciplinary domains, particularly with the use of cutting-edge technologies such as Artificial Intelligence and Data Science. I would greatly appreciate any guidance on how to navigate this journey successfully.
 

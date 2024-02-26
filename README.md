@@ -3,11 +3,11 @@
 👋🏻 Hello dear visitor, Welcome!<br>
 I hope all is well with you.
 
-Allow me to introduce myself briefly. I hold a B.Sc. in Physics from Isfahan University of Technology; my journey into the world of programming began when I was introduced to C++ at university, igniting a passion for development and a desire to explore new technologies.
+Allow me to introduce myself briefly. I hold a B.Sc. in Physics from Isfahan University of Technology; My interest in programming sparked when I was introduced to C++ at university, igniting a passion for development and a desire to explore new technologies.
 
-My professional journey in Computer Science started with learning Android Development using Kotlin Language, followed by a career as a programmer where I independently grasped the basics of front-end development.
+My professional journey in Computer Science started with learning a variety of programming principles, concepts and methodologies within the domain of Android Development using Kotlin Language. This was followed by a career as a programmer, during which I independently grasped the basics of front-end development.
 
-Equipped with a thirst for personal growth, I'm actively seeking new opportunities to further my education in this filed. I am particularly interested in merging my background in physics with interdisciplinary domains, particularly with the use of cutting-edge technologies such as Artificial Intelligence and Data Science. I would greatly appreciate any guidance on how to navigate this journey successfully.
+Driven by a thirst for personal growth, I'm actively seeking new opportunities to further my education in interdisciplinary fileds to leveraging my physics background within the realm of Computer Science, particularly with the use of cutting-edge technologies such as Artificial Intelligence and Data Science. I would greatly appreciate any guidance on how to navigate this journey successfully.
 
 Aside from technologies, I also enjoy sports, movies and music.
 
